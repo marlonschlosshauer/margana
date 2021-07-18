@@ -1,7 +1,7 @@
 {
     "name": "margana",
     "version": "0.1.0",
-    "homepage": "marlonschlosshauer.github.io/margana",
+    "homepage": "https://marlonschlosshauer.github.io/margana/",
     "private": true,
     "dependencies": {
 	"@testing-library/jest-dom": "^5.14.1",
