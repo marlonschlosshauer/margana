@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/margana/static/css/main.a48c4dd3.chunk.css",
-    "main.js": "/margana/static/js/main.55d5c057.chunk.js",
-    "main.js.map": "/margana/static/js/main.55d5c057.chunk.js.map",
+    "main.js": "/margana/static/js/main.3759bfee.chunk.js",
+    "main.js.map": "/margana/static/js/main.3759bfee.chunk.js.map",
     "runtime-main.js": "/margana/static/js/runtime-main.cc1ac89c.js",
     "runtime-main.js.map": "/margana/static/js/runtime-main.cc1ac89c.js.map",
     "static/js/2.9a0dba74.chunk.js": "/margana/static/js/2.9a0dba74.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.cc1ac89c.js",
     "static/js/2.9a0dba74.chunk.js",
     "static/css/main.a48c4dd3.chunk.css",
-    "static/js/main.55d5c057.chunk.js"
+    "static/js/main.3759bfee.chunk.js"
   ]
 }
