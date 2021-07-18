@@ -1,0 +1,15 @@
+.App {
+    display: grid;
+    grid-template-rows: 100px 1fr;
+    grid-template-columns: 1fr;
+    font-family: Arial, sans-serif;
+}
+
+.input {
+    margin: auto;
+}
+
+.output {
+    margin: auto;
+    list-style-type:none;
+}
