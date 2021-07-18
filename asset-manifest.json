@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/marlonschlosshauer.github.io/margana/static/css/main.a48c4dd3.chunk.css",
-    "main.js": "/marlonschlosshauer.github.io/margana/static/js/main.55d5c057.chunk.js",
-    "main.js.map": "/marlonschlosshauer.github.io/margana/static/js/main.55d5c057.chunk.js.map",
-    "runtime-main.js": "/marlonschlosshauer.github.io/margana/static/js/runtime-main.0eb91416.js",
-    "runtime-main.js.map": "/marlonschlosshauer.github.io/margana/static/js/runtime-main.0eb91416.js.map",
-    "static/js/2.9a0dba74.chunk.js": "/marlonschlosshauer.github.io/margana/static/js/2.9a0dba74.chunk.js",
-    "static/js/2.9a0dba74.chunk.js.map": "/marlonschlosshauer.github.io/margana/static/js/2.9a0dba74.chunk.js.map",
-    "index.html": "/marlonschlosshauer.github.io/margana/index.html",
-    "static/css/main.a48c4dd3.chunk.css.map": "/marlonschlosshauer.github.io/margana/static/css/main.a48c4dd3.chunk.css.map",
-    "static/js/2.9a0dba74.chunk.js.LICENSE.txt": "/marlonschlosshauer.github.io/margana/static/js/2.9a0dba74.chunk.js.LICENSE.txt"
+    "main.css": "/margana/static/css/main.a48c4dd3.chunk.css",
+    "main.js": "/margana/static/js/main.55d5c057.chunk.js",
+    "main.js.map": "/margana/static/js/main.55d5c057.chunk.js.map",
+    "runtime-main.js": "/margana/static/js/runtime-main.cc1ac89c.js",
+    "runtime-main.js.map": "/margana/static/js/runtime-main.cc1ac89c.js.map",
+    "static/js/2.9a0dba74.chunk.js": "/margana/static/js/2.9a0dba74.chunk.js",
+    "static/js/2.9a0dba74.chunk.js.map": "/margana/static/js/2.9a0dba74.chunk.js.map",
+    "index.html": "/margana/index.html",
+    "static/css/main.a48c4dd3.chunk.css.map": "/margana/static/css/main.a48c4dd3.chunk.css.map",
+    "static/js/2.9a0dba74.chunk.js.LICENSE.txt": "/margana/static/js/2.9a0dba74.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0eb91416.js",
+    "static/js/runtime-main.cc1ac89c.js",
     "static/js/2.9a0dba74.chunk.js",
     "static/css/main.a48c4dd3.chunk.css",
     "static/js/main.55d5c057.chunk.js"
