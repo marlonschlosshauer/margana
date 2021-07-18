@@ -5,7 +5,6 @@ function App() {
 	const [text, setText] = useState('');
 
 	const onTyping = (e) => {
-		// TODO: Fix e not having .target.value on first char
 		setText(e.target.value.trim().replace(/[\W|\d|\s]/g, ''));
 	};
 
@@ -15,7 +14,7 @@ function App() {
 			// Generate [length, length] Array
 			new Array(text.length).fill()
 				// Make combinations with varied x for e
-				.map((e, i) => ([...(text.repeat(2))].splice(i + 1, text.length - 1))
+				.map((e, i) => ([...(text.repeat(2))].splice(i + 1, text.length))
 					// Turn to strings again
 					.reduce((c, v) => c + v, ''))
 		))];
